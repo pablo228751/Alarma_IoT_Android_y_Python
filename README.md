@@ -2,7 +2,7 @@
 <p align="center">Descripción breve del proyecto</p>
 
 <div align="center">
-  <img src="App_Android.jpeg" width="600" height="300" alt="APP ANDROID">
+  <img src="App_Android.jpeg" width="150" height="300" alt="APP ANDROID">
 </div>
 
 ## Acerca del Proyecto
@@ -39,6 +39,6 @@ El servidor implementa los siguientes comandos:
 
 
 <div align="center">
-  <img src="placa_Esp32_y_Arduino.jpg" width="600" height="300" alt="PLACAS">
+  <img src="placa_Esp32_y_Arduino.jpg" width="300" height="300" alt="PLACAS">
 </div>
 
