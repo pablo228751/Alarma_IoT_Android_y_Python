@@ -1,5 +1,5 @@
-<h1 align="center">Nombre del Proyecto</h1>
-<p align="center">Descripción breve del proyecto</p>
+<h1 align="center">Sistema de Alarma IoT + Servidor Python</h1>
+<p align="center">El sistema combina un servidor remoto a una alarma con conexión Wifi, que se conecta a diferentes periféricos de entrada (sensores de mivimiento, barreras infrarrojas, sensores magneticos, etc) y actúa según los parámetros de programacón para dar aviso, activar y desactivar, etc.</p>
 
 <div align="center">
   <img src="App_Android.jpeg" width="150" height="300" alt="APP ANDROID">
